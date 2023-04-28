@@ -1,7 +1,14 @@
-# ChatRealtime
-1. Mọi người muốn chạy thì phải clone code về nhé
-2. sau khi clone code về rồi thì mọi người nhập
-- npm i
-thì bài của mn sẽ có folder là node_modules
-3. mn chạy lệnh npm start hoặc node app.js 
-4. chạy xong thì mn vào gg và gõ localhost:3000 nhé
+
+Bước 1: Mọi người clone code của em về máy của mọi người nhé
+
+Bước 2: Sau khi clone code về thì mọi người nhập 
+npm i để tạo folder node_modules
+
+Bước 2: Sau khi đã có folder node_modules thì mọi người nhập
+npm start hoặc node app.js
+
+
+Bước 3: Chạy dự án bằng đường link sau
+localhost:3000
+
+Bước 4: Mọi người vào web và trải nghiệm nhé
